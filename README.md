@@ -2,6 +2,7 @@
 Define include gaurd macro for empty input header file.
 
 **usage**
+
 build using cargo build
 define-macro <header file path>
 
